@@ -1,3 +1,3 @@
-# mavelik-oru-portfolio
+# samp-portfolio
 # I have created a portfolio website
-## Link: https://harika-haru.github.io/mavelik-oru-portfolio/
+## Link: https://harika-haru.github.io/samp-portfolio/
